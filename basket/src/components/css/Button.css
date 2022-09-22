@@ -16,3 +16,6 @@
   display: block;
   width: 100%;
 }
+.btn-dark {
+  background: rgb(2, 14, 38);
+}
